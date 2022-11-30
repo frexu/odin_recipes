@@ -1,0 +1,20 @@
+body{
+    background-color: darkred;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: left;
+    list-style-position: inside;
+    font-size: 18px;
+}
+
+#ingredients{
+    background-color: yellow;
+}
+
+#steps{
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+}
